@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi, I’m Blessing Aliu, welcome to my Github page.
 
 <!--
 **blessingaliu/blessingaliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
