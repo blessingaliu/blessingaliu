@@ -6,7 +6,7 @@
 
 </br> 
 
-📚 I’m currently furthering my web development learning on the Makers October 2021 Bootcamp, focusing on Ruby and JavaScript.
+📚 I’m just finished the Makers October 2021 Bootcamp
 
 </br> 
 
