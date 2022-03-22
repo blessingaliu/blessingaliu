@@ -2,11 +2,11 @@
 
 </br> 
 
-😄 I am a British biomedical science graduate who did her masters in Regenerative medicine and stem cell research, in the process of learning data programming in my masters I fell in love with coding, more specifically software development.
+😄 I am a British biomedical science graduate who did her masters in Regenerative medicine and stem cell research, in the process of learning data programming in my masters I fell in love with coding, more specifically the process of software development and coding.
 
 </br> 
 
-📚 I’m just finished the Makers October 2021 Bootcamp
+📚 I just finished the Makers October 2021 Bootcamp
 
 </br> 
 
