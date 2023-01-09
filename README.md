@@ -6,10 +6,6 @@
 
 </br> 
 
-📚 I just finished the Makers October 2021 Bootcamp which is a full stack software engineering bootcamp
-
-</br> 
-
 🌱 I am interested in building innovative programs that make an improvement to the world around me, expressing my creativity and curiousity through my passion for technology. I am determined to consistently develop and progress in my career as a Software engineer.
 
 </br> 
