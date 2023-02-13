@@ -8,6 +8,12 @@
 
 🌱 I am interested in building innovative programs that make an improvement to the world around me, expressing my creativity and curiousity through my passion for technology. I am determined to consistently develop and progress in my career as a Software engineer.
 
+</br>
+
+💻 [My website which is currently in progress](https://blessingaliu.com/)
+
+</br>
+
 </br> 
 
 💬 Self learning resources 
