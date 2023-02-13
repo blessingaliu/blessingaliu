@@ -17,7 +17,8 @@
 </br> 
 
 💬 Self learning resources 
-- freeCodeCamp [Responsive web design certificate](https://www.freecodecamp.org/certification/blessingaliu/responsive-web-design). Representing approximately 300 hours of coursework. Currently working on the JavaScript Algorithms and Data Structures Certification.
+- Microsoft Azure Fundamentals AZ-900 Certified
+- freeCodeCamp [Responsive web design certificate](https://www.freecodecamp.org/certification/blessingaliu/responsive-web-design). Representing approximately 300 hours of coursework. 
 - Codecademy - Completed: Ruby [Codecademy profile](https://www.codecademy.com/profiles/blessingaliu)
 - Codewars - Current point level: 6 kyu (155 points)[Codewars profile](https://www.codewars.com/users/blessinga)
 - Completed the [Google IT Support Professional Certificate](https://coursera.org/share/764ef370c5f682e1d3ea89e5820523e1) : Key skills include Network security, Package and OS management, Troubleshooting and Systems Administration.
