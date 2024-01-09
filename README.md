@@ -2,8 +2,7 @@
 
 </br> 
 
-😄 I am a British biomedical science graduate who did her masters in Regenerative medicine and stem cell research, in the process of learning data programming in my masters I fell in love with coding, more specifically the process of software development.
-
+😄 I am a Frontend developer enthuiastic about working in cloud forward environments.
 </br> 
 
 🌱 I am interested in building innovative programs that make an improvement to the world around me, expressing my creativity and curiousity through my passion for technology. I am determined to consistently develop and progress in my career as a Software engineer.
