@@ -1,30 +1,31 @@
-#### 👋 Hi, I’m Blessing Aliu, welcome to my Github page.
+# 👋 Hello, I’m Blessing Aliu — Welcome to my GitHub!
 
-</br> 
+---
 
-😄 I am a Frontend developer enthuiastic about working in cloud forward environments.
-</br> 
+## 💼 About Me
+I’m a passionate **Cloud Software Engineer** with over 2 years of experience working in cloud environments. I specialize in cloud-based solutions and automation using technologies like **AWS**, **Docker**, and **CI/CD pipelines**. I’m driven to innovate and build scalable, efficient systems that solve real-world problems. I’m always eager to learn, grow, and take on new challenges in the tech world.
 
-🌱 I am interested in building innovative programs that make an improvement to the world around me, expressing my creativity and curiousity through my passion for technology. I am determined to consistently develop and progress in my career as a Software engineer.
+---
 
-</br> 
+## 🌱 Current Focus
+I’m constantly improving my skills and knowledge to stay at the forefront of technology, particularly in **cloud infrastructure** and **software development**. I’m looking to contribute to projects that push the boundaries of what’s possible, while also improving my expertise in **AWS** and **software engineering**.
 
-💬 Completed Certifications
-- AWS Cloud Practitioner Certified 
-- Microsoft Azure Fundamentals AZ-900 Certified
-- freeCodeCamp [Responsive web design certificate](https://www.freecodecamp.org/certification/blessingaliu/responsive-web-design). Representing approximately 300 hours of coursework. 
-- Codecademy - Completed: Ruby [Codecademy profile](https://www.codecademy.com/profiles/blessingaliu)
-- Codewars - Current point level: 6 kyu (155 points)[Codewars profile](https://www.codewars.com/users/blessinga)
-- Completed the [Google IT Support Professional Certificate](https://coursera.org/share/764ef370c5f682e1d3ea89e5820523e1) : Key skills include Network security, Package and OS management, Troubleshooting and Systems Administration.
+---
 
-</br> 
+## 🔑 Certifications
+- **AWS Cloud Practitioner Certified** (Achieved 21/12/2024)
+- **Microsoft Azure Fundamentals AZ-900 Certified**  (Achieved 01/02/2023)
+- **Google IT Support Professional Certificate**: Skills in **network security**, **OS management**, **troubleshooting**, and **systems administration**. (Achieved 27/12/2021)
+- **freeCodeCamp [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/blessingaliu/responsive-web-design)**
 
-📫 How to reach me: [Email](blessingaliu@ymail.com) and [LinkedIn](https://www.linkedin.com/in/blessingaliu/)
+---
 
-⚡ Fun fact: I enjoy drawing/painting and hiking.
+## 📫 Let’s Connect
+Feel free to reach out via [Email](mailto:blessingaliu@ymail.com) or [LinkedIn](https://www.linkedin.com/in/blessingaliu/).
 
+---
 
- <!--
-![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=blessingaliu&show_icons=true&theme=radical)
--->
+## ⚡ Fun Fact
+When I’m not coding, I enjoy **photography**, **painting**, **travelling** and **hiking** in nature!
+
 
