@@ -7,15 +7,10 @@
 
 🌱 I am interested in building innovative programs that make an improvement to the world around me, expressing my creativity and curiousity through my passion for technology. I am determined to consistently develop and progress in my career as a Software engineer.
 
-</br>
-
-💻 [My website which is currently in progress](https://blessingaliu.com/)
-
-</br>
-
 </br> 
 
-💬 Self learning resources 
+💬 Completed Certifications
+- AWS Cloud Practitioner Certified 
 - Microsoft Azure Fundamentals AZ-900 Certified
 - freeCodeCamp [Responsive web design certificate](https://www.freecodecamp.org/certification/blessingaliu/responsive-web-design). Representing approximately 300 hours of coursework. 
 - Codecademy - Completed: Ruby [Codecademy profile](https://www.codecademy.com/profiles/blessingaliu)
